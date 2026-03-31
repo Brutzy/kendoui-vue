@@ -21,6 +21,8 @@ export default {
 </script>
 
 <style>
+@import "@progress/kendo-theme-default/dist/all.css";
+
 body {
   margin: 0;
 }

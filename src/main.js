@@ -3,6 +3,9 @@
 import Vue from 'vue'
 import App from './App'
 
+import '@progress/kendo-ui'
+import '@progress/kendo-theme-default/dist/all.css';
+
 Vue.config.productionTip = false
 
 /* eslint-disable no-new */
